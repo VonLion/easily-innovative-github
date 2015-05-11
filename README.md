@@ -8,6 +8,6 @@ First clone the repo
 Make a branch
 Edit the readme and add your name
 Add & commit
-Push
+Push (or hub pull-request)
 Done
 
