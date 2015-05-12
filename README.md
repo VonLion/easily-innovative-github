@@ -11,3 +11,4 @@ Here's a commit made from the command line, try it yourself!
  - Push (or hub pull-request)
 Done!
 
+Antonio Manuel Lopez
